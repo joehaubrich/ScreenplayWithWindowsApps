@@ -7,6 +7,7 @@ Table of Contents:
 3. Creating the Project
 
 Project Description
+
 The purpose of this project is to demonstrate how the Serenity BDD Screenplay pattern can be applied to situations where automated tests must be created for Windows Desktop Applications, such as Calculator.
 
 Tools Used in Project
